@@ -1,0 +1,39 @@
+Anhand des Sachgebietes
+GROUP
+Händler
+Lieu de la manifestation
+Nombre total de membres
+Passwords by usage count
+Passwörter
+Passwörter durch Nutzung zählen
+Pr?f?rencesUtilisateur
+Pr�f�rencesUtilisateur
+Pässe
+Table
+Ticket System Acc Numbers
+Ticket-System ACC-Nummern
+database
+databases
+group
+guestbook
+hauptsächlich
+index
+key
+keys
+les noms d'utilisateur
+lines
+mysql.user
+nom d'utilisateur
+order
+table
+users
+会员
+密码
+帐号
+用户
+用户名
+用户密码
+用户帐号
+登录
+管理员
+网站管理员
